@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "dfsdf",
+      "text": "sdf",
       "day": "sdf",
       "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "Shower",
-      "day": "NOW",
-      "reminder": true,
-      "id": 4
+      "id": 1
     }
   ]
 }
